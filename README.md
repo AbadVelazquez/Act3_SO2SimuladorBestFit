@@ -1,2 +1,2 @@
-# Act3_SO2SimuladorBestFit
-Actividad 3 Direccionamiento de segmentación y paginación - SO 2, Eq 7
+# Acte_SO2SimuladorBestFit
+Actividad 3 Segmentación Algoritmo Best-Fit - SO 2, Eq 7
